@@ -25,7 +25,7 @@ git clone https://github.com/vmishra103269/Soullinux.git
 ```bash
 git clone https://gitlab.com/vm.opensource/soul-linux.git
 ```
- 
+
 # The website and repositories
 We are currently working on the Soul Linux official website which is at: https://soullinux.w3spaces.com/, we are hoping the development for the website should be finished sooner than the OS itself. Please do wait for the first release of Soul Linux. We are also working on the package repositories for Soul Linux, which has two main parts. The stable which will be enabled by defualt will be hosted on Gitlab and the testing repositories will be hosted by us locally. The packages from the core, extra and community repositories will be thouroghly tested. So you can trust us on the stability we give.
 
