@@ -31,7 +31,7 @@ We are currently working on the Soul Linux official website which is at: https:/
 
 # The development team
 
- * Venkatesh Mishra (head developer) : experienced in Cybersecurity: vm.opensouce
+ * Venkatesh Mishra (head developer) : experienced in Cybersecurity: vmishra103269
 
 # Important Note
 Soul Linux is currently under development by Venkatesh Mishra, please do not use any of the code until the first release of Soul Linux is publicly released. The development stages are aslo open source to make sure we are following the Security measures to patch the vulnerabilities in our code. Please do wait for the development to be finished. Until then you can help by contributing code. Soul Linux is a community made project and not backed by any company so the development time could take a while. We request you to wait patinelty for the first release.
