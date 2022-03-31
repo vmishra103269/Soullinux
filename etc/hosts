@@ -1,0 +1,9 @@
+# Soullinux hosts file
+# Please edit this file on your own risk, as this file is responsible for the Networking managment of your Machine
+# - Soullinux dev team
+
+127.0.0.1        localhost.localdomain localhost
+::1              localhost6.localdomain6 localhost6
+# replace soul with your hostname
+# replace .localdomain with your domain name (optional)
+127.0.1.1   soul.localdomain    soul
