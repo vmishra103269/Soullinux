@@ -15,6 +15,17 @@ doas or dedicated openbsd application subexecutor is a secure and lightweight al
 # hybrid base
 soullinux is a hybrid based Linux distro, which has a base of Arch Linux but can use the default rolling Arch repos or the Stable Universe soullinux repos. By default it comes with the stable repos, but you can choose if you want it or not during the installation.
 
+# Source code
+You can see our Source code on Github (https://github.com/vmishra103269/Soullinux) and Gitlab (https://vm.opensource/soul-linux) and clone into to keep a local copy of our code.
+* Github 
+```bash
+git clone https://github.com/vmishra103269/Soullinux.git
+```
+* Gitlab
+```bash
+git clone https://gitlab.com/vm.opensource/soul-linux.git
+```
+ 
 # The website and repositories
 We are currently working on the Soul Linux official website which is at: https://soullinux.w3spaces.com/, we are hoping the development for the website should be finished sooner than the OS itself. Please do wait for the first release of Soul Linux. We are also working on the package repositories for Soul Linux, which has two main parts. The stable which will be enabled by defualt will be hosted on Gitlab and the testing repositories will be hosted by us locally. The packages from the core, extra and community repositories will be thouroghly tested. So you can trust us on the stability we give.
 
