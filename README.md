@@ -10,7 +10,7 @@ I hope you enjoy using soullinux as much as I did makeing it.
 Our aim is to make Linux popular and stable as a Desktop operating system. We deliver enterprise level security to Desktop users. Linux was initially made to be a Desktop OS, but due to it's secure and lightweight nature has become a Server OS. We are hoping to make Linux the best Desktop Operating System. And show the world that Linux can be just as good as a Desktop os. We are not trying to compete with Windows or Mac but we want to get Linux the same popularity as these both operating systems.
 
 # doas
-doas or dedicated openbsd application subexecutor is a secure and lightweight alternative to sudo made by the OpenBSD developers. We use this instead of sudo due to the secure and very lightweight nature of it. The configuration file is also very easy to understand and read. This subexecutor is suitable for beginners.
+doas or dedicated openbsd application subexecutor is a secure and lightweight alternative to sudo made by the OpenBSD developers. We use this instead of sudo due to the secure and very lightweight nature of it. The configuration file is also very easy to understand and read. This subexecutor is suitable for beginners. The Soullinux doas config alows SSH via the super user, the can be disabled by editing the /etc/doas.conf file. 
 
 # hybrid base
 soullinux is a hybrid based Linux distro, which has a base of Arch Linux but can use the default rolling Arch repos or the Stable Universe soullinux repos. By default it comes with the stable repos, but you can choose if you want it or not during the installation.
