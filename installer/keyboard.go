@@ -11,12 +11,22 @@ package main
 import (
     "log"
     "os/exec"
+    "fmt"
 )
 
 func main() {
-    cmd := exec.Command("localectl set-keymap en")
-    err := cmd.Run()
-    if err != nil {
-        log.Fatal(err)
+    var lang string
+    fmt.Println("Enter your keyboard language")
+    fmt.Scan(&lang)
+    if(lang == "en") {
+        cmd := exec.Command("localectl set-keymap en")
+        err := cmd.Run()
+        if err != nil {
+            log.Fatal(err)
+        }
+    } else {
+        if err != nil {
+            fmt.Println(err)
+        }
     }
 }
