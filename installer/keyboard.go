@@ -1,3 +1,11 @@
+/*
+|#######################################|
+|## Soullinux Keyboard-locale Manager ##|
+|## (C) Copyright Venkatesh Mishra    ##|
+|## Under the GNU GPL v3 License      ##|
+|## date: 01/04/2022                  ##|
+########################################|*/
+
 package main
 
 import (
