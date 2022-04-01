@@ -16,7 +16,7 @@ import (
 
 func main() {
     var lang string
-    fmt.Println("Enter your keyboard language")
+    fmt.Println("Enter your keyboard language: ")
     fmt.Scan(&lang)
     if(lang == "en") {
         cmd := exec.Command("localectl set-keymap en")
