@@ -3,7 +3,7 @@
 |## Soullinux Keyboard config         ##|
 |## (C) Copyright Venkatesh Mishra    ##|
 |## Under the GNU GPL v3 License      ##|
-|## date: 31/03/2022                  ##|
+|## date: 01/04/2022                  ##|
 ########################################|
 */
 
