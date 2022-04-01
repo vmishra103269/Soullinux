@@ -222,11 +222,13 @@ int editor(){
 int main(int short argc, char * const argv[]){
     int short i;
     for(i=0;i<1;i++){
-        printf("Welcome to the Soul Linux CLI installer!\n");
+        printf("Welcome to the %s CLI installer!\n",name);
         printf("Please wait while run some pre-installation scripts...\n");
         pre_installation();
         printf("Choose a keyboard laguage from the list given below to continue:\n");
         printf("%s","English US\n English UK\n English IND\n Mexican\n Italian\n German\n French\n Russian\n Chinese\n Spanish\n Hindi\n Japanese\n");
+        keyboard_layout();
+        return 0;
     }
     return 0;
 }
